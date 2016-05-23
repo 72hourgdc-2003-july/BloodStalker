@@ -1,0 +1,10 @@
+0 - [Code]  	Start Point
+1 - [Fixed] 	Smoke
+2 - [Fixed] 	Cat (Stolen graphic!!)
+3 - [Interact] 	Kid1
+4 - [Interact] 	Enemy vampire
+5 - [Pickup]   	Time crystal
+6 - [Pickup]   	Time key
+7 - [Pickup]   	Blood bag
+8 - [Interact]  Kid2
+9 - [Code]  	Exit Point
